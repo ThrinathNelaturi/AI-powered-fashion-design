@@ -11,5 +11,6 @@ Number of images: 12 types of clothing.
 Purpose: Masked images for Inpainting-Stable diffusion model (Isolate specific areas for a text-to-image generation.)
 
 
-#Architecture Diagram:
+# Architecture Diagram:
+
 ![image](https://github.com/ThrinathNelaturi/AI-powered-fashion-design/assets/23274288/242361b8-8713-48a7-9370-ed158f43f715)
